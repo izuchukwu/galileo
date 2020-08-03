@@ -1,0 +1,2 @@
+# galileo
+Visually organize anything ✨
